@@ -1,4 +1,4 @@
-package DAO;
+package DAOo;
 
 public class User {
     private int id;

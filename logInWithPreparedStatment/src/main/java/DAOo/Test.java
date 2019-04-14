@@ -1,4 +1,4 @@
-package DAO;
+package DAOo;
 
 public class Test {
     public static void main(String[] args) {
