@@ -1,4 +1,6 @@
-package person_email_example;
+package person_email_example.jdbc;
+
+import person_email_example.configuration.AbstractConfiguration;
 
 public class InMemoryConfiguration extends AbstractConfiguration {
 

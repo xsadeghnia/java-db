@@ -1,4 +1,4 @@
-package entity;
+package person_email_example.entity;
 
 import java.util.Objects;
 

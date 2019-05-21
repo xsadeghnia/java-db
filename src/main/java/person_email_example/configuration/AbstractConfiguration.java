@@ -1,4 +1,4 @@
-package person_email_example;
+package person_email_example.configuration;
 
 public abstract class AbstractConfiguration implements Configuration {
 

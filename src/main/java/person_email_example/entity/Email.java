@@ -1,4 +1,8 @@
-package entity;
+package person_email_example.entity;
+
+import person_email_example.annotation.TableName;
+
+@TableName( name = "email")
 
 public class Email extends Entity {
     private String address;
@@ -19,4 +23,5 @@ public class Email extends Entity {
     public void setPerson(Person person) {
         this.person = person;
     }
+
 }
